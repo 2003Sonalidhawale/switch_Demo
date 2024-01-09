@@ -107,7 +107,7 @@ class Switch_Demo {
                 break;        
 
         default:
-                System.out.println("Enter invalid choice");
+                System.out.println("Enter valid choice");
                 break;
         }
 }
